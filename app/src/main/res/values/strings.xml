@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="enter_your_height_cm">Enter your height (cm)</string>
+    <string name="enter_your_height_ft">Enter your height (ft)</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="imperial">Imperial</string>
+    <string name="welcome_to_bmi_calculator">Welcome to BMI Calculator</string>
+    <string name="name_hint">Name</string>
+    <string name="enter_your_weight_kg">Enter your weight (Kg)</string>
+    <string name="enter_your_weight_lb">Enter your weight (lb)</string>
+    <string name="female_radio_button">Female</string>
+    <string name="male_radio_button">Male</string>
+    <string name="ok_button">Ok</string>
+    <string name="cancel_button">Cancel</string>
+</resources>
